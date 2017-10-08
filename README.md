@@ -5,6 +5,7 @@ A tool for mutation analysis of high throughput monoclonal immunoglobulin sequen
 This is the pipeline was used for analysis of data in the publication "Stochasticity enables BCR-independent germinal center initiation and antibody affinity maturation".
 
 It is a very simple workflow which works mostly in R. Pear, Muscle and Jalview were used in intermediate steps. The functions used and the steps followed are descripted below.
+
 Requirements:
 
 1) R and R studio
